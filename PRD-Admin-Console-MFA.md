@@ -1,25 +1,6 @@
 # PRD: Admin Console — Multi-Factor Authentication
 
-**Confluence source:** https://elsevier.atlassian.net/wiki/spaces/ADCON/pages/119601749888239/PRD+Admin+Console+Multi-Factor+Authentication
 
----
-
-## Key Information
-
-| Field | Value |
-|---|---|
-| **Target Release** | End of Q1 (Elaboration), Mid Q2 (Implementation) |
-| **Document Status** | Draft |
-| **Product(s)** | Admin Console — https://adminconsole.elsevier.com |
-| **Key Deliverable(s) Supported** | [IAM-41070](https://elsevier.atlassian.net/browse/IAM-41070) |
-| **Epic(s)** | [IAM-37750](https://elsevier.atlassian.net/browse/IAM-37750) |
-| **Product Owner(s)** | Lokesh Reddy Kondeti |
-| **PDMO(s)** | TBD |
-| **Tech Lead(s)** | Jhen Andes |
-| **Designer(s)** | Ronit Pandya, Rajeesh Nair |
-| **Architect(s)** | Nikolaos Sotiropoulos, Priya Samuel, Stephen Brewell |
-| **Product Documentation Repository** | [Admin Console Docs](https://elsevier.atlassian.net/wiki/spaces/ADCON/pages/119601639329486) |
-| **Squads Involved** | NeoID Trinity Squad — [IAM Board Timeline](https://elsevier.atlassian.net/jira/software/c/projects/IAM/boards/5888/timeline) |
 | **Reference: Auth0 MFA Docs** | https://auth0.com/docs/secure/multi-factor-authentication/enable-mfa |
 | **Reference: NeoID MFA Docs** | [MFA in Auth0 — NeoID](https://elsevier.atlassian.net/wiki/spaces/NEOID/pages/119601285008300) |
 
@@ -158,19 +139,3 @@ Three policy levels are available in Auth0:
 
 ### Sign-Off Record
 
-| Reviewer | On Behalf Of | Status | Date Received |
-|---|---|---|---|
-| Daniel Higgins | NeoID — Product Management | Requested | 28 Jan 2025 |
-| Victoria Thompson | Product Management — Authentication | Not Requested | — |
-| Richa Malhotra | NeoID — Trinity | Requested | 28 Jan 2025 |
-| Jhen Andes | Technical Lead — Europa | Requested | 28 Jan 2025 |
-| Nikolaos Sotiropoulos | Delegate Architect — Europa | Requested | 28 Jan 2025 |
-| Sorina Itu | Product Management — Consoles | Requested | 28 Jan 2025 |
-| Cyndee Sugra | A&G Segment — Product Management | Requested | 28 Jan 2025 |
-| Kelechi Okere | Health Segment — Product Management | Requested | 28 Jan 2025 |
-| Bill Bernstein | NeoID — UX | Requested | 28 Jan 2025 |
-| Priya Samuel | Shared Tech — Senior Architect | Requested | 28 Jan 2025 |
-| Stephen Brewell | Shared Tech — Lead Architect | Requested | 28 Jan 2025 |
-| James Heaton | Security Architecture | Requested | — |
-| Shivakiran S | Data Analyst II | Requested | — |
-| Simon Landsman | Principal Product Analyst | Requested | — |
